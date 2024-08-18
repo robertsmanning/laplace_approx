@@ -1,0 +1,3 @@
+This directory is MATLAB code for the Laplace approximation for a rigid base pair model
+
+The main program is approx_j_multi (see header for how to use it); all other files are called by the main (or other subs)
