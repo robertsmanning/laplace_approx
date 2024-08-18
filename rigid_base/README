@@ -1,1 +1,5 @@
-This directory is for computing the Laplace approximation for the cgDNA rigid base model
+This directory is for computing the Laplace approximation for the cgDNA rigid base model.
+
+Main program is approx_j (see header for syntax)
+
+Other .m files are called by approx_j (or each other)
